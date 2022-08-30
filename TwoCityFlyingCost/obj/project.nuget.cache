@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6bIUIWlLU3bjc9ZVKEJfJXjXAHw3B/FnY2tI1gtN6xM8J+CLKNmILJgT47BC3TL8QZXzJtsi+1jVyP9UDhdlQ==",
+  "dgSpecHash": "Leo5y8Z+m44ZllwW4ohmMpF4/qzHRbZyotUkn6DcYvMKh/Dmf7nbZ7neL07fXDFnNqQ8Ped4d5yUgLvnoEgNGA==",
   "success": true,
-  "projectFilePath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj",
+  "projectFilePath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

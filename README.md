@@ -17,9 +17,15 @@ Once .net core is install clone the project.
 git clone https://github.com/rogerndutiye/Two-City-Scheduling.git
 cd Two-City-Scheduling
 ```
+#### Progrm code Screenshots
+![screenshot #1](program.png)
 
 ### `Testing`
 For testing run the below.
 ```
 dotnet test
 ```
+
+
+#### Progrm Testing code Screenshots
+![screenshot #1](programtest.png)

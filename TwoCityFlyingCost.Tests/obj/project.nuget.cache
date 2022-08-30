@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3cOSg3+1zkXFsyRdXYJcHt4akPSrbwX6L1oeqvbkf1ILDezAgU2wfyL9Yc3gqDXFRIAPmcNEpcuTKNgE76UDXw==",
+  "dgSpecHash": "7RwuDRs21zq0fQD6oeen884noBMDSZhpEVkRmCZ11soHAPclxjLqtZzYiEc1YL7lHwPMOtiwb+uK9jk3iH5Mzw==",
   "success": true,
-  "projectFilePath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost.Tests/TwoCityFlyingCost.Tests.csproj",
+  "projectFilePath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost.Tests/TwoCityFlyingCost.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/roger/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/roger/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

@@ -3529,11 +3529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost.Tests/TwoCityFlyingCost.Tests.csproj",
+      "projectUniqueName": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost.Tests/TwoCityFlyingCost.Tests.csproj",
       "projectName": "TwoCityFlyingCost.Tests",
-      "projectPath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost.Tests/TwoCityFlyingCost.Tests.csproj",
+      "projectPath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost.Tests/TwoCityFlyingCost.Tests.csproj",
       "packagesPath": "/Users/roger/.nuget/packages/",
-      "outputPath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost.Tests/obj/",
+      "outputPath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/roger/.nuget/NuGet/NuGet.Config"
@@ -3547,8 +3547,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj": {
-              "projectPath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj"
+            "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj": {
+              "projectPath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj"
             }
           }
         }

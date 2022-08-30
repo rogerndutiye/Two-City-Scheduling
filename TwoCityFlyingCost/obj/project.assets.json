@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj",
+      "projectUniqueName": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj",
       "projectName": "TwoCityFlyingCost",
-      "projectPath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj",
+      "projectPath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost/TwoCityFlyingCost.csproj",
       "packagesPath": "/Users/roger/.nuget/packages/",
-      "outputPath": "/Users/roger/Projects/NetCore/TwoCityScheduling/TwoCityFlyingCost/obj/",
+      "outputPath": "/Users/roger/Projects/NetCore/Test/Two-City-Scheduling/TwoCityFlyingCost/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/roger/.nuget/NuGet/NuGet.Config"
