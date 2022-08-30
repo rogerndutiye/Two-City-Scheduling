@@ -11,7 +11,7 @@ The below instructions will get you a copy of the project up and running on your
 
 The project has been built with [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1), so download it in case you don't have it installed on your system [Download .NET](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) 
 
-Once .net core is install clone the project.
+Once .net core is installed, clone the project then continue testing the challenge.
 
 ```
 git clone https://github.com/rogerndutiye/Two-City-Scheduling.git

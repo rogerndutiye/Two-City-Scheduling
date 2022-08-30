@@ -8,6 +8,12 @@ namespace TwoCityFlyingCost
 {
     public class SchedCost
     {
+        ///<summary>
+        ///return Calculated  minimumCost.
+        ///</summary>
+        /// <param name="costs">The Array containing the cost information.</param>
+        /// <returns>A Integer value of the calculated cost. </returns>
+
         public int TwoCitySchedCost(int[][] costs)
         {
             
